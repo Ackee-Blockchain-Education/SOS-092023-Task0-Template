@@ -16,8 +16,6 @@ Inside a GitHub repository, you will find a folder named **`src`**. Within this 
 
 #### 🟥 DO NOT alter any part of the source code other than the return values. Any unintended changes will be your responsibility.
 
-#### 🟥 DO NOT be concerned about any failed GitHub Workflow. This is related to our setup, and your task will be evaluated separately.
-
 ### 🟩 Technical SETUP 🟩
 
 This task is written in the **Rust programming language**. Familiarizing yourself with Rust will be beneficial since it is **the predominant programming language used on the `Solana Blockchain`**. However, for this task, intricate knowledge of Rust is **not mandatory** as you're merely required to change return values. If you wish, you can **install Rust** using the `link provided below` and get acquainted with its associated workflow.
