@@ -16,7 +16,9 @@ Inside a GitHub repository, there's a folder named **`src`**. In this folder, yo
 
 ### Your task is to `modify` these `characters` based on the questions given. Once done, you'll need to push the changes. Our team will then assess the modified answers automatically. Push only changes made inside the `main.rs` file.
 
-#### 🟥Do NOT change the source code except the return values. You are responsible for changes that are not meant to be changed🟥
+#### 🟥DO NOT change the source code except the return values. You are responsible for changes that are not meant to be changed
+
+#### 🟥DO NOT give any weight to failed GitHub Workflow, this is our setup, your task will be evaluated later.
 
 
 ### 🟩Technical SETUP🟩 ###
