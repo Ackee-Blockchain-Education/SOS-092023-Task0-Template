@@ -12,7 +12,7 @@ Welcome to your **Entry Task** for the **Autumn School of Solana 2023**.
 
 Inside a GitHub repository, you will find a folder named **`src`**. Within this folder, there's a file named **`main.rs`** that contains **10 functions, each resembling a question**. Currently, each of these functions returns a character set to **`x`**.
 
-### Your primary task is to `modify` these `characters` in accordance with the provided questions. Once you've made your changes, push them to the repository. Our team will then automatically evaluate your submitted answers. Please ensure you only push changes made inside the `main.rs` file.
+### Your task is to `modify` these `characters` in accordance with the provided questions. Once you've made your changes, push them to the repository (master). Our team will then automatically evaluate your submitted answers. Please ensure you only push changes made inside the `main.rs` file.
 
 #### 🟥 DO NOT alter any part of the source code other than the return values. Any unintended changes will be your responsibility.
 
